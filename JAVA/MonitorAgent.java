@@ -16,7 +16,7 @@ public class MonitorAgent {
   * Purpose: Process command line arguments and startup running threads
   */
 
-	public static String copyright = new String("(c) 2000 Erol Zavidic");
+	public static String copyright = new String("(c) 2014 Erol Zavidic");
 	public static String version = new String("1.0");
 
 	public static void main(String[] args) {
